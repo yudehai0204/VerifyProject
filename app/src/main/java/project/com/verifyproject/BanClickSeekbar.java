@@ -7,7 +7,7 @@ import android.view.MotionEvent;
 
 /**
  * Created by 于德海 on 2018/6/7.
- * package inter.baisong.widgets
+ *
  * email : yudehai0204@163.com
  *
  * @describe
