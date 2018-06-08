@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlideValidateView">
+        <attr name="slideWidthScale" format="float"></attr>
+        <attr name="mSlideBitmap" format="reference"></attr>
+        <attr name="max_width" format="dimension"></attr>
+        <attr name="max_height" format="dimension"></attr>
+        <attr name="deviation" format="integer"></attr>
+        <attr name="shade_color" format="color"></attr>
+    </declare-styleable>
+</resources>
